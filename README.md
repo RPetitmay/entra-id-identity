@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/REPLACE_WITH_YOUR_BANNER.png" alt="Entra ID"/>
+<img src="https://i.imgur.com/BWIlArV.png" alt="Entra ID"/>
 </p>
 
 <h1>Entra ID — User Identities (SC-300 Lab 1)</h1>
